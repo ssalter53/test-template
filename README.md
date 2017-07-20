@@ -30,4 +30,4 @@
 3. W3 schools
 4. Videos/tutorials
 
-5. links to other repos, wiki, folders
+5. links to other repos, wiki (https://github.com/ssalter53/test-template.wiki.git), folders
